@@ -1,0 +1,38 @@
+
+{
+  "short_name": "Sanctuary",
+  "name": "Faceworldd Cosmic Sanctuary",
+  "description": "Your private AI astrological sanctuary for growth and self-awareness.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2586/2586414.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2586/2586414.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2586/2586414.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2586/2586414.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "display_override": ["standalone", "fullscreen"],
+  "theme_color": "#020617",
+  "background_color": "#020617",
+  "orientation": "portrait"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Faceworld's Oracle",
+  "description": "A private astrological growth sanctuary featuring personalized AI journaling, real-time voice coaching, and generative destiny boards tailored to your unique natal chart.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
